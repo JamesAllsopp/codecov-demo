@@ -14,4 +14,4 @@ class Calculator:
         return x * 1.0 / y
 
     def mod(x,y):
-        return 1
+        return 2
